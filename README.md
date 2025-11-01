@@ -71,15 +71,3 @@ Splunk • New Relic • JUnit • Mockito
 ## 🌱 Current Focus  
 - Deep diving into **Cloud-native microservices**, **Kubernetes**, and **Performance Engineering**.  
 - Building side projects around **real-time event streaming** and **system design patterns**.
-
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kajal-52&show_icons=true&theme=tokyonight" alt="Kajal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajal-52&theme=tokyonight" alt="Kajal's Streak Stats" width="48%" />
-</p>
-
----
-
-<h3 align="center">✨ “Building backend systems that are as scalable as they are reliable.” ✨</h3>
