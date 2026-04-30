@@ -65,6 +65,7 @@ Splunk • New Relic • JUnit • Mockito
 
 ## 🏆 Leadership & Awards  
 - Completed **BeWise Women’s Leadership Training**, leading collaborative initiatives and data-driven decision-making.
+- Recognised with the CEO Award 2025 for outstanding performance and significant contribution to the organisation's goals.
 
 ---
 
