@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <a href="https://linkedin.com/in/kajal-tiwari87" target="_blank">Kajal Tiwari</a></h1>
-<h3 align="center">Software Development Engineer (SDE 2) | Java | Spring Boot | AWS | Kafka</h3>
+<h3 align="center">Software Development Engineer (SDE 2) | Java | Spring Boot | Kafka</h3>
 
 <p align="center">
   <a href="mailto:Kajal.Tiwari348@gmail.com"><img src="https://img.shields.io/badge/Email-Kajal.Tiwari348%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
@@ -11,7 +11,7 @@
 ---
 
 ## 🧩 About Me  
-I’m a **Java Backend Engineer** with **4.5+ years of experience** designing and implementing scalable, distributed systems for fintech and enterprise applications.  
+I’m a **Java Backend Engineer** with **5+ years of experience** designing and implementing scalable, distributed systems for fintech and enterprise applications.  
 My core strength lies in building **microservices**, **optimizing performance**, and **modernizing systems** through cloud adoption and secure architecture.  
 
 💡 _I love solving deep backend challenges and turning business logic into clean, efficient code._  
